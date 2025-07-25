@@ -1,1 +1,2 @@
 This is just an example text file to learn git version control systems.
+restored and sent to local repo.
